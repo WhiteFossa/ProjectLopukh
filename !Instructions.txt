@@ -1,0 +1,11 @@
+1) Mirror the part along Z-axis in slicer.
+
+2) Print with very thin walls (2 x layers both vertical and horizontal, layer thickness is 0.3mm).
+
+3) Print from TPU FLEX plastic, use 10% fill, honeycomb pattern.
+
+4) Heat a bit when attaching to headphones.
+
+By White Fossa aka Artyom Vetrov (whitefossa@gmail.com)
+
+License: CC-BY-SA 4.0+
